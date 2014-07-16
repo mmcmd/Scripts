@@ -1,7 +1,7 @@
 /r/sysadmin scripts
 ===================
 
-This is a repository of helpful administration scripts compiled and created by the community of reddit.com/r/sysadmin.
+This is a repository of helpful administration scripts compiled and created by the [Sysadmin community on Reddit](http://reddit.com/r/sysadmin).
 
 The goal of this repository is to server as a central location to keep track of useful scripts and snippits, as well as an educational resource for new system administrators. As such, a set of standards will be maintained to ensure that code is accurate, safe, efficient, readable, and scalable.
 
